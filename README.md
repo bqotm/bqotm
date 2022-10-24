@@ -4,7 +4,7 @@
 Credits to https://www.pixilart.com/ceny for the coding doge
 --->
 
-- 🌱 I’m currently interested in **Reactive programming and many more.**
+- 🌱 I’m currently interested in **Blockchain, Reactive programming and many more.**
 
 - 👨‍💻 All of my projects are available **here**
 
