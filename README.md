@@ -1,11 +1,10 @@
 <img align="center" width="2000" src="https://github.com/bqotm/bqotm/blob/main/github-header-image.png"/>
-<h3 align="center">A passionate CS dev from Morocco</h3>
 <img align="right" alt="Coding" width="250" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 <!---
 Credits to https://www.pixilart.com/ceny for the coding doge
 --->
 
-- 🌱 I’m currently interested in **Neo4j, Angular, Reactive programming and many more.**
+- 🌱 I’m currently interested in **Reactive programming and many more.**
 
 - 👨‍💻 All of my projects are available **here**
 
