@@ -1,4 +1,4 @@
-<img align="center" width="2000" src="https://github.com/bqotm/bqotm/blob/main/github-header-image.png"/>
+<img align="center" width="2000" src="https://github.com/bqotm/bqotm/blob/main/github-header-image_.png"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
