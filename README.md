@@ -1,5 +1,3 @@
-<img align="center" width="2000" src="https://github.com/bqotm/bqotm/blob/main/github-header-image_.png"/>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/othmane-baqacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="othmane-baqacha" height="30" width="40" /></a>
@@ -37,6 +35,4 @@
                
 <h4 align="center">Mobile :</h4>
  <p align="center"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>               
- 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bqotm&show_icons=true&locale=en" alt="bqotm" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bqotm&show_icons=true&locale=en&layout=compact" alt="bqotm" /></p>
